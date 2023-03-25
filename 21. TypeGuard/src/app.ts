@@ -90,6 +90,7 @@ function useVehical(v: vehical) {
 
     if (v instanceof Truck) {
         v.loadCargo(100)
+
     }
 }
 
